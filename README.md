@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrwinny01
+- 👋 Hi, I’m @MrWinny
 - 👀 I’m interested in development web applications
 - 🌱 I’m currently learning computer networks
 - 💞️ I’m looking to collaborate on serious global project
